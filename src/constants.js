@@ -29,7 +29,7 @@ import cipet from './assets/education_logo/cipet.png';
 import ldps from './assets/education_logo/ldps.jpg';
 
 // Project Section Logo's
-import Wanderlust from './assets/work_logo/Wanderlust.png';
+import Wanderlust from './assets/work_logo/wanderlust.png';
 import WeatherApp from './assets/work_logo/weatherapp.png';
 
 
