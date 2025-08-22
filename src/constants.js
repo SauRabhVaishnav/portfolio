@@ -179,7 +179,7 @@ export const projects = [
     image: Wanderlust,
     tags: ["HTML", "CSS", "JavaScript", "Mongodb", "Nodejs", "API"],
     github: "https://github.com/SauRabhVaishnav/Major-Projects",
-    webapp: "https://major-project-u6r3.onrender.com/listings",
+    webapp: "https://major-project-1y54.onrender.com",
   },
   {
     id: 1,
